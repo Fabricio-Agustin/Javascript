@@ -9,6 +9,7 @@ letra mayuscula. y si el nombre de la constante es
 compuesto se separa con guion bajo.
 */
 
+
 const mi_constante = 'Hola mundo'; // no podemos modificar el valor de esta constante, es decir, no podemos hacer mi_constante = 'Adios_mundo';
 
 // Imprimimos el valor de la constante en la consola.
